@@ -13,4 +13,4 @@ printf("\n the entered number is %d",num);
 return 0;
 }
 
-© 2018 GitHub, Inc.
+
